@@ -17,7 +17,7 @@ func tanggunganHari(jumlahHari int, tujuan string) int {
 }
 
 func biayaPerHari() int {
-	return 620000
+	return 6200001
 }
 
 func perhitunganBiaya(jumlahMhs, lama int, tujuan string, totalBiaya *float64) {
